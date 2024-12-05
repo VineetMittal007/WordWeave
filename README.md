@@ -1,43 +1,18 @@
-<div align="center">
- <h1> <img src="https://prowriter.itsvg.in/logo.png" width="80px"><br/>Pro Writer</h1>
- <img src="https://img.shields.io/badge/Release-v.1.0.0-brightgreen?style=plastic"/>
- <img src="https://img.shields.io/badge/Code-Open%20Source-brightgreen?style=plastic"/>
- <img src="https://img.shields.io/npm/v/npm?style=plastic">
- <img src="https://img.shields.io/website?style=plastic&url=https%3A%2F%2Fprowriter.itsvg.in/"> 
- <img src="https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=plastic"/>
- <img src="https://img.shields.io/github/languages/code-size/VishwaGauravIn/pro-writer?logo=github&style=plastic">
-</div>
-
 
 ## Dev Note
 
-Welcome to Pro Writer 🚀
+Welcome to WordWeave
 
-First of all, Thanks for using Pro Writer 💛
+First of all, Thanks for using WordWeave 💛
 
 You can see letter count, word count, line count, and text memory size in Statistics section.
 You can also set text size according to your requirement and  of your choice.
 
-What is Magic Spell? [BETA]
-Need 1000 words article and stuck on 960? use Magic Spell and it will add relevant characters to your article to make it even more longer.
+What is Aladdin?
+Need 1000 words article and stuck on 960? use Aladdin and it will add relevant characters to your article to make it even more longer.
 Not just article, try this with anything. Story, Letter, Cover, and more.
 
-Wrote something important but forgot to save? Don't worry, we got your back. Your text is saved automatically in your device.
 
-It works on all devices, Sounds good? Well there is lot more to come. 
-This project is Open Source so if you want any new feature, you can add this yourself by contributing to our GitHub repository or request a feature
-
-
-### Website is Live : [prowriter.itsvg.in](https://prowriter.itsvg.in)
-
-# Screensorts
-   ![image](https://user-images.githubusercontent.com/81325730/194935068-342d6081-9f52-4059-947a-7c8bc6ed1e4c.png)
-   ![image](https://user-images.githubusercontent.com/81325730/194935154-c399c7cd-5d05-47b8-b2c1-c354533b4484.png)
-   ![image](https://user-images.githubusercontent.com/81325730/194935192-db4fc121-ca74-4631-992b-50abd86c0a4f.png)
-   ![image](https://user-images.githubusercontent.com/81325730/194935221-7c8d3d09-1b13-4dbb-ab61-c0cbe3da84b5.png)
-   ![image](https://user-images.githubusercontent.com/81325730/194935133-a262dcb5-cf00-4dfd-8d6f-46d01505119e.png)
-   ![image](https://user-images.githubusercontent.com/81325730/194935265-68197cd0-3908-4006-9e5b-79c2f6c63fae.png)
-   
 # PageSpeed Insights
 <img src="https://raw.githubusercontent.com/VishwaGauravIn/Images/900d7c8ebd920e9151a578fa859a392c926905d3/pw_psi.svg" align="center">
 
