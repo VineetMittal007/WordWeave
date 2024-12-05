@@ -35,6 +35,3 @@ Not just article, try this with anything. Story, Letter, Cover, and more.
 
 **Stuck? Search your issue/error on Google** 
 
-### [Play With Code](https://codesandbox.io/s/github/VishwaGauravIn/pro-writer) 
-[![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/s/github/VishwaGauravIn/tools-for-tech)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.dev/VishwaGauravIn/pro-writer)
